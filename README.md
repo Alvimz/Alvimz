@@ -2,7 +2,7 @@
 
 Aprendendo Python e codando algumas coisas.
 
-![Python Snake](https://www.python.org/static/community_logos/python-logo.png)
+![Python Snake]([https://www.python.org/static/community_logos/python-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png))
 
 <!---
 Alvimz/Alvimz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
